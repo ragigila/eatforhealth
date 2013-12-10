@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Eat for Healt</name>
+
+<description>
+Sebuah aplikasi yang memberikan informasi masakan sehat untuk kehidupan yang sehat
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Ragigila
+</author>
+
+</widget>
